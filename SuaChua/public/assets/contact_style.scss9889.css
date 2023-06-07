@@ -1,0 +1,538 @@
+.page_cotact {
+    font-family: "Niramit", sans-serif
+}
+
+.page_cotact .title-head-contact {
+    color: #686b6d;
+    font-size: 30px !important;
+    font-family: "Niramit", sans-serif;
+    font-weight: 700;
+    text-transform: none;
+    position: relative;
+    display: block;
+    margin: 0;
+    padding-bottom: 10px
+}
+
+.page_cotact .title-head-contact span {
+    display: block;
+    padding: 10px 0
+}
+
+.page_cotact p {
+    color: #8d90a6
+}
+
+.page_cotact .title_db {
+    font-size: 18px !important;
+    font-weight: 700;
+    color: #686b6d;
+    text-transform: uppercase;
+    position: relative;
+    display: block;
+    margin: 0;
+    padding-bottom: 0px
+}
+
+.page_cotact .title_db span {
+    display: block;
+    padding: 10px 0
+}
+
+.page_cotact .form-signup {
+    margin: 0px
+}
+
+.page-login .title-head-contact:before {
+    width: 25%
+}
+
+.thank_text {
+    color: #024e98;
+    display: block;
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 30px
+}
+
+.google-map {
+    width: 100%
+}
+
+.google-map .map {
+    width: 100%;
+    height: 450px;
+    background: #dedede
+}
+
+@media (max-width: 543px) {
+    .page-login span.intr {
+        font-size: 13px !important
+    }
+
+    .address .page_address .adr_title .title-head a {
+        width: 100%;
+        margin: 15px 0
+    }
+}
+
+.page_contact {
+    padding-bottom: 85px
+}
+
+.page_contact .title_page {
+    margin: 60px 0 35px;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Niramit", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase
+}
+
+@media (max-width: 767px) {
+    .page_contact .title_page {
+        font-size: 24px
+    }
+}
+
+.page_contact .title_page span {
+    color: #2A3E55
+}
+
+.page_contact .title-head-contact {
+    font-size: 20px;
+    font-family: "Niramit", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 0 20px;
+    color: #2A3E55
+}
+
+.page_contact label {
+    display: inline-block;
+    max-width: 100%;
+    font-size: 14px;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: #686b6d
+}
+
+.page_contact label em {
+    color: red
+}
+
+.page_contact form {
+    margin: 0
+}
+
+.page_contact .left_contact .title-head-contact {
+    margin-bottom: 15px
+}
+
+.page_contact .left_contact p {
+    color: #75808C;
+    font-family: "Niramit", sans-serif;
+    margin: 0 0 35px;
+    font-size: 17px
+}
+
+.group_contact .form-group {
+    padding: 0px 15px;
+    margin-bottom: 20px;
+    color: #686b6d;
+    position: relative
+}
+
+.group_contact .form-group .form-control {
+    border-radius: 7px !important;
+    font-size: 17px;
+    position: relative;
+    height: 45px;
+    margin-bottom: 25px;
+    padding: 0px 15px 0 40px;
+    border: 1px solid #dddddd;
+    display: block;
+    width: 100%;
+    color: #A4A9AE;
+    background-color: #fff;
+    background-image: none;
+    margin: 0;
+    box-shadow: none
+}
+
+.group_contact .form-group .form-control::-webkit-input-placeholder {
+    color: #A4A9AE
+}
+
+.group_contact .form-group .form-control::-moz-placeholder {
+    color: #A4A9AE
+}
+
+.group_contact .form-group .form-control:-ms-input-placeholder {
+    color: #A4A9AE
+}
+
+.group_contact .form-group svg {
+    position: absolute;
+    top: 15px;
+    left: 30px;
+    color: #c4c4c4;
+    height: 16px;
+    width: 16px
+}
+
+.group_contact .form-group .content-area {
+    min-height: 130px;
+    padding: 10px 15px 10px 40px;
+    border-radius: 7px !important
+}
+
+.group_contact .form-group input,
+.group_contact .form-group textarea {
+    border-color: #e1e1e1
+}
+
+.group_contact .form-group input:focus,
+.group_contact .form-group textarea:focus {
+    border-color: #e1e1e1
+}
+
+.group_contact .form-group .btn-50-full {
+    font-family: "Niramit", sans-serif;
+    position: absolute;
+    right: 15px;
+    bottom: 0px;
+    box-shadow: none;
+    padding: 8px 20px;
+    font-size: 14px;
+    color: #fff;
+    background: #024e98;
+    border: solid 1px #024e98
+}
+
+.group_contact .form-group .btn-50-full:hover {
+    border-color: #024e98;
+    background: #fff;
+    color: #024e98
+}
+
+.page .group_contact .btn-lienhe,
+.page-contact .group_contact .btn-lienhe {
+    border-radius: 7px;
+    font-family: "Niramit", sans-serif;
+    border: 1px #024e98 solid;
+    background: #024e98;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+    text-transform: unset;
+    font-family: "Niramit", sans-serif;
+    padding: 0px 30px;
+    font-size: 19px;
+    transition: color 300ms ease-in-out 0s, background-color 300ms ease-in-out 0s, background-position 300ms ease-in-out 0s;
+    font-weight: 400;
+    display: inline-block;
+    min-width: 80px;
+    position: relative
+}
+
+.page .group_contact .btn-lienhe:hover,
+.page-contact .group_contact .btn-lienhe:hover {
+    background: #fff;
+    color: #024e98;
+    border-color: #024e98
+}
+
+.right_contact {
+    margin-top: 80px
+}
+
+.right_contact .title_right_contact {
+    font-size: 17px;
+    margin: 0 0 15px;
+    text-transform: uppercase;
+    font-family: "Niramit", sans-serif;
+    font-weight: bold;
+    color: #2A3E55
+}
+
+.single-contact {
+    margin: 0 0 20px;
+    display: flex;
+    align-items: center
+}
+
+.single-contact .svg-icon {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    line-height: 25px;
+    margin: auto 0
+}
+
+.single-contact svg {
+    width: 22px;
+    height: 25px
+}
+
+.single-contact svg path {
+    fill: #2A3E55
+}
+
+.single-contact a,
+.single-contact span {
+    font-family: "Niramit", sans-serif;
+    color: #686b6d;
+    font-size: 17px;
+    line-height: 20px;
+    word-break: break-word;
+    margin-left: 10px
+}
+
+.single-contact .phone {
+    color: #fe9614;
+    font-size: 21px;
+    font-family: "Niramit", sans-serif;
+    font-weight: bold
+}
+
+.single-contact a:hover {
+    color: #024e98
+}
+
+.social_contact {
+    margin-top: 25px
+}
+
+.social_contact span {
+    display: block;
+    font-family: "Niramit", sans-serif;
+    font-size: 17px;
+    margin-bottom: 10px
+}
+
+.social_contact a {
+    padding: 9px 10px 0;
+    margin-right: 10px;
+    display: inline-block;
+    border-radius: 8px
+}
+
+.social_contact a.facebook {
+    background: #2785DD
+}
+
+.social_contact a.facebook:hover {
+    background: #fff
+}
+
+.social_contact a.facebook:hover svg {
+    color: #2785DD
+}
+
+.social_contact a.facebook:hover svg path {
+    fill: #2785DD
+}
+
+.social_contact a.twitter {
+    background: #00C2FF
+}
+
+.social_contact a.twitter:hover {
+    background: #fff
+}
+
+.social_contact a.twitter:hover svg {
+    color: #00C2FF
+}
+
+.social_contact a.twitter:hover svg path {
+    fill: #00C2FF
+}
+
+.social_contact a.pinterest {
+    background: #E43D3D
+}
+
+.social_contact a.pinterest:hover {
+    background: #fff
+}
+
+.social_contact a.pinterest:hover svg {
+    color: #E43D3D
+}
+
+.social_contact a.pinterest:hover svg path {
+    fill: #E43D3D
+}
+
+.social_contact a.instgram {
+    background: linear-gradient(180deg, #E43DA1 0%, #9B3DE4 100%)
+}
+
+.social_contact a.instgram:hover {
+    background: #fff
+}
+
+.social_contact a.instgram:hover svg {
+    color: #00C2FF
+}
+
+.social_contact a.instgram:hover svg path {
+    fill: #E43DA1
+}
+
+.social_contact a svg {
+    width: 25px;
+    height: 25px;
+    color: #fff
+}
+
+.social_contact a svg path {
+    fill: #fff
+}
+
+.iFrameMap iframe {
+    width: 100% !important;
+    height: 545px;
+    display: block
+}
+
+.box_advisor_left {
+    background: #F6FBFF;
+    padding: 80px 35px;
+    margin-top: 55px;
+    position: relative;
+    border-radius: 7px;
+    overflow: hidden
+}
+
+@media (max-width: 991px) {
+    .box_advisor_left {
+        margin-bottom: 30px
+    }
+}
+
+@media (max-width: 767px) {
+    .box_advisor_left {
+        padding: 50px 15px
+    }
+}
+
+.box_advisor_left:before {
+    content: "";
+    background-image: url(bg_advisor_19452.png?1665452287477);
+    background-repeat: no-repeat;
+    width: 299px;
+    height: 54px;
+    display: block;
+    background-size: contain;
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.box_advisor_left:after {
+    content: "";
+    background-image: url(//bizweb.dktcdn.net/100/425/159/themes/894862/assets/bg_advisor_2.png?1665452287477);
+    background-repeat: no-repeat;
+    width: 299px;
+    height: 54px;
+    display: block;
+    background-size: contain;
+    position: absolute;
+    bottom: -5px;
+    right: 0
+}
+
+.box_advisor_left .title_advisor {
+    text-transform: uppercase;
+    color: #024E98;
+    font-family: "Niramit", sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0 0 15px
+}
+
+@media (max-width: 767px) {
+    .box_advisor_left .title_advisor {
+        font-size: 24px
+    }
+}
+
+.box_advisor_left p {
+    font-family: "Niramit", sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 30px;
+    margin: 0 0 35px;
+    color: #75808C
+}
+
+.box_advisor_left .time_advisor {
+    color: #fe9614;
+    font-family: "Niramit", sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+    margin-bottom: 10px
+}
+
+.box_advisor_left .address_advisor {
+    color: #75808C;
+    font-family: "Niramit", sans-serif;
+    font-size: 17px;
+    line-height: 30px
+}
+
+.box_advisor_right {
+    box-shadow: 1px 0px 20px -2px rgba(0, 0, 0, 0.13);
+    border-radius: 17px;
+    padding: 35px 25px
+}
+
+@media (max-width: 767px) {
+    .box_advisor_right {
+        padding: 20px 15px
+    }
+}
+
+.box_advisor_right .title_advisor_2 {
+    color: #2A3E55;
+    font-family: "Niramit", sans-serif;
+    font-weight: bold;
+    line-height: 39px;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 0 0 10px
+}
+
+@media (max-width: 767px) {
+    .box_advisor_right .title_advisor_2 {
+        font-size: 24px
+    }
+}
+
+.box_advisor_right p {
+    color: #75808C;
+    font-size: 17px;
+    font-family: "Niramit", sans-serif;
+    margin: 0 0 25px
+}
+
+.box_advisor_right form {
+    margin-bottom: 0
+}
+
+.box_advisor_right form .form-se select {
+    background-image: url(//bizweb.dktcdn.net/100/425/159/themes/894862/assets/ico-select.png?1665452287477) !important
+}
+
+.box_advisor_right form .form-se svg {
+    left: 15px;
+    z-index: 4
+}
+
+.box_advisor_right form .form-se svg path {
+    color: #024e98
+}
